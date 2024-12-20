@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanika Paygude</h1>
 <h3 align="center">🎓 *MCA Student* | *Aspiring Software Developer* 💻 *Passionate About Coding and Innovation*</h3>
 
-- 🌱 I’m currently learning **java, Frameworks, DSA and Hand-on project**
+- 🌱 I’m currently learning **java, DSA, and Hand-on project**
 
 - 💬 Ask me about **I am a passionate MCA student who loves exploring the world of *software development*. With a strong interest in coding and problem-solving, I aim to build impactful and user-friendly applications**
 
